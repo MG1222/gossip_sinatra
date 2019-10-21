@@ -1,5 +1,7 @@
 LE PROJET GOSSIP_SINATRA
+
 Decouverte de Sinatra
+
 Ce app -> affiche une page d'accueil
        -> permetre d'enregistrer un potin
        
